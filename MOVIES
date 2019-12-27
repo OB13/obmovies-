@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:0,MBC 2 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?fluxustv.m3u8
+#EXTINF:0,MBC 1 HD
+http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8?fluxustv.m3u8
+#EXTINF:0,MBC 3 HD
+http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8?fluxustv.m3u8
+#EXTINF:0,MBC 4 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8?fluxustv.m3u8
+#EXTINF:0,MBC action HD
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8?fluxustv.m3u8
+#EXTINF:0,MBC bolwood 1 HD
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/04.m3u8
+#EXTINF:0,MBC drama HD 
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
+#EXTINF:0,MAX HD
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8?fluxustv.m3u8 
+#EXTINF:0,Rotana cinema
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
+#EXTINF:0,Rotana classic
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
+#EXTINF:0,Star movies HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
+#EXTINF:0,Star word. HD
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?fluxustv.m3u8 
+#EXTINF:0,ZEE films
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+#EXTINF:0,B4U plus 
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:0,B4U film
+http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
+#EXTINF:0,Abu Dhabi HD 
+http://adtv.ercdn.net/addrama/addrama_480p.m3u8?fluxustv.m3u8
+#EXTINF:0,HBO Russia
+http://ott-cdn.ucom.am/s64/04.m3u8
+#EXTINF:0,Directive from
+https://distro.akamaized.net/indexfd_1280x720.m3u8
+#EXTINF:0,Mavel movie's
+http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:0,Nastwaa movie
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:0,Citizen tv kenya
+https://vidhttps.r.worldssl.net/citizentv-origin/liveabr/citizentv-origin/live2/chunks.m3u8
+#EXTINF:0,HBO Russia
+http://ott-cdn.ucom.am/s64/04.m3u8
+#EXTINF:0,H2 history
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:0,Movie kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:0,Nat Geo people
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:0,Nat Geo wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:0,National geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:0,TMZ 
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0,Sony movie
+http://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/playlist.m3u8?fluxustv.m3u8
