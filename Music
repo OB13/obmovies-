@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:0,MTV 1
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,MTV 2
+http://81.30.182.82:18092/hls/live.m3u8
+#EXTINF:0,MTV 3
+https://stitcher.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/997452/playlist.m3u8?terminate=false&deviceId=&deviceVersion=&appVersion=&deviceType=&deviceMake=&sid=dcuqage0urlhccbp8kbecjc830&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=&userId=&embedPartner=pluto.tv&appName=&serverSideAds=true&architecture=&paln=&includeExtendedEvents=
+#EXTINF:0,MTV teen
+https://stitcher.pluto.tv/stitch/hls/channel/5ca68a4737b88b269472f1be/3063648/playlist.m3u8?terminate=false&deviceId=&deviceVersion=&appVersion=&deviceType=&deviceMake=&sid=jcuqage0urlhccbp8kbecjc830&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=&userId=&embedPartner=pluto.tv&appName=&serverSideAds=true&architecture=&paln=&includeExtendedEvents=
+#EXTINF:0,MTV code 
+https://stitcher.pluto.tv/stitch/hls/channel/5ca68acec16f7d78dc161fe1/997452/playlist.m3u8?terminate=false&deviceId=&deviceVersion=&appVersion=&deviceType=&deviceMake=&sid=fcuqage0urlhccbp8kbecjc830&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=&userId=&embedPartner=pluto.tv&appName=&serverSideAds=true&architecture=&paln=&includeExtendedEvents=
+#EXTINF:0,MTV dating
+https://stitcher.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/997452/playlist.m3u8?terminate=false&deviceId=&deviceVersion=&appVersion=&deviceType=&deviceMake=&sid=hcuqage0urlhccbp8kbecjc830&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=&userId=&embedPartner=pluto.tv&appName=&serverSideAds=true&architecture=&paln=&includeExtendedEvents=
+#EXTINF:0,BET USA
+https://stitcher.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/997452/playlist.m3u8?terminate=false&deviceId=&deviceVersion=&appVersion=&deviceType=&deviceMake=&sid=gcuqage0urlhccbp8kbecjc830&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=&userId=&embedPartner=pluto.tv&appName=&serverSideAds=true&architecture=&paln=&includeExtendedEvents=
+#EXTINF:0,BOX Hits
+http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tm.yospace.com/csm/live/123930093/3.m3u8;jsessionid=7C25DBF501FD9BD87D846571E60112C3.csm-e-cebxeurxaws101j8-61e3i3s9t0pj.bln1.yospace.com?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f&externalId=boxhits-desktop
+#EXTINF:0,BOX up front 
+http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tm.yospace.com/csm/live/123930144/4.m3u8;jsessionid=92BBA0537AE8B7D83F875A2532A3CA5A.csm-e-cebxeurxaws101j8-61e3i3s9t0pj.bln1.yospace.com?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxupfront/&externalId=boxupfront-desktop
+#EXTINF:0,Trace Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:0,Trace gospel
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:0,Trace kitoko 
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:0,Trace mziki 
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8 
+#EXTINF:0,Trace naija
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:0,Trace toca 
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:0,Trece tropical
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:0,Trace urbun
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
+#EXTINF:0,BOX family
+http://csm-e-cebxeurxaws101j8-6ppfx7zbtrk8.tm.yospace.com/csm/live/123930144/4.m3u8;jsessionid=5BF1EEED52579C30DA9C2F20BCAA4ABE.csm-e-cebxeurxaws101j8-6ppfx7zbtrk8.bln1.yospace.com?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxupfront/&externalId=boxupfront-desktop
