@@ -37,10 +37,8 @@ http://ott-cdn.ucom.am/s64/04.m3u8
 https://distro.akamaized.net/indexfd_1280x720.m3u8
 #EXTINF:0,Mavel movie's
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-#EXTINF:0,Nastwaa movie
+#EXTINF:0,HD Movies
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:0,Citizen tv kenya
-https://vidhttps.r.worldssl.net/citizentv-origin/liveabr/citizentv-origin/live2/chunks.m3u8
 #EXTINF:0,HBO Russia
 http://ott-cdn.ucom.am/s64/04.m3u8
 #EXTINF:0,H2 history
